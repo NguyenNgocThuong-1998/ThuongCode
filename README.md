@@ -1,1 +1,2 @@
 # ThuongCode
+!pip install pyvi
